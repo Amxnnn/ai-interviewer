@@ -1,0 +1,83 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1778 >>
+stream
+BT
+/F1 10 Tf
+13 TL
+50 770 Td
+/F2 16 Tf
+(Jordan Lee) '
+/F1 10 Tf
+(Full-Stack Software Engineer  |  jordan.lee@example.com  |  github.com/jordanlee-dev) '
+() '
+/F2 11 Tf
+(SUMMARY) '
+/F1 10 Tf
+(Full-stack engineer with 4 years of experience building B2B SaaS products with TypeScript,) '
+(React and PostgreSQL. Enjoys performance work and developer tooling.) '
+() '
+/F2 11 Tf
+(EXPERIENCE) '
+/F1 10 Tf
+(Senior Software Engineer - Ledgerly \(fintech SaaS\)                      Mar 2023 - Present) '
+(- Led migration of the billing service from a Node monolith to event-driven workers) '
+(  \(SQS + Postgres\), cutting invoice generation time from 40 minutes to 6 minutes.) '
+(- Designed a multi-tenant permissions model used by 1,200+ business customers.) '
+(- Reduced p95 API latency by 45% by adding Redis caching and fixing N+1 queries.) '
+(- Mentored 3 junior engineers and introduced team code review guidelines.) '
+() '
+(Software Engineer - Brightcart \(e-commerce startup\)                     Jul 2021 - Feb 2023) '
+(- Built the checkout flow with Next.js and Stripe, processing about $2M GMV per month.) '
+(- Owned product search, implemented with Postgres full-text search.) '
+(- Wrote an internal CLI that cut local environment setup from a full day to 20 minutes.) '
+() '
+/F2 11 Tf
+(PROJECTS) '
+/F1 10 Tf
+(DevPulse - open-source GitHub analytics dashboard \(Next.js, tRPC, Prisma\). 800+ stars.) '
+(SnapNotes - Chrome extension that summarizes articles using an LLM API.) '
+() '
+/F2 11 Tf
+(SKILLS) '
+/F1 10 Tf
+(TypeScript, JavaScript, React, Next.js, Node.js, PostgreSQL, Redis, AWS \(SQS, Lambda, S3\),) '
+(Docker, GitHub Actions, Jest, Playwright) '
+() '
+/F2 11 Tf
+(EDUCATION) '
+/F1 10 Tf
+(B.Tech in Computer Science - National Institute of Technology, 2021) '
+() '
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000002081 00000 n 
+0000002151 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2226
+%%EOF

@@ -1,0 +1,8 @@
+# Store text files with LF line endings, whatever OS they were edited on.
+* text=auto eol=lf
+
+# Binary files: never touch their bytes. Converting line endings inside a PDF
+# shifts the byte offsets its index depends on and corrupts the file.
+*.pdf binary
+*.ico binary
+*.png binary
